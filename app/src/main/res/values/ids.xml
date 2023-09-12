@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="guidetop" type="id" />
+    <item name="guidehorizontal0" type="id" />
+    <item name="guidehorizontal1" type="id" />
+    <item name="guidehorizontal2" type="id" />
+    <item name="guidehorizontal3" type="id" />
+</resources>
